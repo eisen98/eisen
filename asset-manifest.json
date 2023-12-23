@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/eisen/static/css/main.159044b3.css",
-    "main.js": "/eisen/static/js/main.5cf119ba.js",
+    "main.css": "/eisen/static/css/main.bc6f5aa1.css",
+    "main.js": "/eisen/static/js/main.bef67ba7.js",
     "static/js/787.db000e33.chunk.js": "/eisen/static/js/787.db000e33.chunk.js",
+    "static/media/moguli.jpg": "/eisen/static/media/moguli.051a0e1cfe1adaf57619.jpg",
+    "static/media/mogulili.jpg": "/eisen/static/media/mogulili.40b6ef5af8f372e5f0b5.jpg",
     "static/media/logo.svg": "/eisen/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/eisen/index.html",
-    "main.159044b3.css.map": "/eisen/static/css/main.159044b3.css.map",
-    "main.5cf119ba.js.map": "/eisen/static/js/main.5cf119ba.js.map",
+    "main.bc6f5aa1.css.map": "/eisen/static/css/main.bc6f5aa1.css.map",
+    "main.bef67ba7.js.map": "/eisen/static/js/main.bef67ba7.js.map",
     "787.db000e33.chunk.js.map": "/eisen/static/js/787.db000e33.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.159044b3.css",
-    "static/js/main.5cf119ba.js"
+    "static/css/main.bc6f5aa1.css",
+    "static/js/main.bef67ba7.js"
   ]
 }
